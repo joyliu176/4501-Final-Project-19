@@ -1,1 +1,9 @@
+matplotlib
+pandas
+requests
+psycopg2
+geoalchemy2
+geopandas
+shapely
+sqlalchemy
 
