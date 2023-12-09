@@ -54,19 +54,19 @@ This project uses the following datasets:
 - Database: PostgreSQL
 
 ## Features
-### Part 1: Data Preprocessing**: 
+### Part 1: Data Preprocessing
   Downloading datasets, both manually and programmatically, cleaning and filtering the data, filling in missing values, and generating relevant 
   data samples.
   
-### Part 2: Data Storage**: 
+### Part 2: Data Storage
   Storing the datasets obtained and cleaned in Part 1. The primary objective is to populate a PostgreSQL database with tables generated from these 
   datasets. Efficiently storing and retrieving data using PostgreSQL.
   
-### Part 3:  Understanding Data**: 
+### Part 3:  Understanding Data
   A series of SQL queries are crafted to gain insights into the datasets used for this project. Each query is designed to answer a specific 
   question related to the data. The queries are saved as separate .sql files with descriptive names indicating their purpose. Analyzing the 
   datasets to identify key trends and insights.
-- **Part 4: Data Visualization**: 
+## Part 4: Data Visualization
   Creating visualizations to gain insights and enhance our understanding of the datasets. These visualizations are generated using libraries like 
   Matplotlib, Geopandas, and other visualization tools. Each visualization is designed to be self-explanatory, with labeled axes, titles, and 
   appropriate visual elements.
