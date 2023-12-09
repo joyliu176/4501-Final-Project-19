@@ -1,3 +1,27 @@
+# nyc_zipcodes
+data/zipcodes/*nyc_zipcodes*.dbf
+data/zipcodes/*nyc_zipcodes*.prj
+data/zipcodes/*nyc_zipcodes*.sbn
+data/zipcodes/*nyc_zipcodes*.sbx
+data/zipcodes/*nyc_zipcodes*.shp
+data/zipcodes/*nyc_zipcodes*.shp.xml
+data/zipcodes/*nyc_zipcodes*.shx
+
+# zillow
+data/*zillow_rent_data*.csv
+
+# 311
+data/resource/*erm2-nwe9*.geojson
+
+# 2015
+data/resource/*5rq2-4hqu*.geojson
+
+# 311 Cleaned
+data/cleaned_resource/*erm2-nwe9*.geojson
+
+# 2015 Cleaned
+data/cleaned_resource/*5rq2-4hqu*.geojson
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
