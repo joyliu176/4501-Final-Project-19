@@ -15,8 +15,8 @@ We are looking for a great place in New York to live with my budget.
 - Urban planners and researchers studying urban living conditions.
 
 ## Team Members
-- Member 1: [Tao(Cecilia) Lin](https://github.com/Cecilia030)
-- Member 2: [Yaping(Joy) Liu](https://github.com/joyliu176)
+- Member 1: [Tao(Cecilia) Lin](https://github.com/Cecilia030)  tl3240
+- Member 2: [Yaping(Joy) Liu](https://github.com/joyliu176)    yl5569
 
 ## Installation Guide
 Ensure you have Python installed on your system, and follow these steps:
