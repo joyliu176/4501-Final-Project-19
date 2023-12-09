@@ -24,16 +24,20 @@ Ensure you have Python installed on your system, and follow these steps:
 ```python
 git clone https://github.com/joyliu176/4501-Final-Project-19.git
 ```
+```python
+cd 4501-Final-Project-19
+```
 
-2. **Install Dependencies**
+2. **Update your codebase**
+```python
+git pull origin main
+```
+3. **Install Dependencies**
 ```python
 pip install -r requirements.txt
 ```
 
-## Usage
-To interact with the project:
-
-1. **Launch Jupyter Notebook**
+4. **Launch Jupyter Notebook**
 ```python
 jupyter notebook
 ```
