@@ -3,7 +3,8 @@
 ## Project Overview
 This project is focused on leveraging data analytics to find the ideal residential area in New York City that offers tranquility and ample greenery. Utilizing open data from New York City, NYC’s zip codes with geometric boundary data and Zillow's historical rent data, our analysis involves an in-depth exploration of various neighborhoods, assessing factors like complaints, green spaces, and average rent prices.
 
-### Goals
+### Goals 
+We are looking for a great place in New York to live with my budget.
 - To identify quiet neighborhoods with less complaints.
 - To evaluate the presence and quality of green spaces.
 - To analyze rent trends and affordability in different areas.
