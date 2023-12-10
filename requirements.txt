@@ -1,9 +1,13 @@
 matplotlib
 pandas
 requests
+contextily
+IPython
+notebook
+
 psycopg2
 geoalchemy2
 geopandas
 shapely
-sqlalchemy
 
+SQLAlchemy
