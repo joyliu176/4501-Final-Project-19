@@ -1,4 +1,4 @@
-# IEOR E4501 Final Project - Group 19 - Fall 2023
+# NYC Serenity: Data-Driven Urban Residential Analysis
 
 ## Project Overview
 This project is focused on leveraging data analytics to find the ideal residential area in New York City that offers tranquility and ample greenery. Utilizing open data from New York City, NYC’s zip codes with geometric boundary data and Zillow's historical rent data, our analysis involves an in-depth exploration of various neighborhoods, assessing factors like complaints, green spaces, and average rent prices.
@@ -15,8 +15,8 @@ We are looking for a great place in New York to live with my budget.
 - Urban planners and researchers studying urban living conditions.
 
 ## Team Members
-- Member 1: [Tao(Cecilia) Lin](https://github.com/Cecilia030)  tl3240
-- Member 2: [Yaping(Joy) Liu](https://github.com/joyliu176)    yl5569
+- Member 1: [Tao(Cecilia) Lin](https://github.com/Cecilia030) 
+- Member 2: [Yaping(Joy) Liu](https://github.com/joyliu176)   
 
 ## Installation Guide
 Ensure you have Python installed on your system, and follow these steps:
